@@ -26,7 +26,7 @@ README.md
 
 How to view
 ---
-* Download zip from 
+* Download zip from link  
 * Open zip file
 * open folder
 * Open index.html 

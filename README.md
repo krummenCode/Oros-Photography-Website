@@ -1,6 +1,8 @@
 Oros-Photography-Website
 ===
 
+# Website can be viewed at [krummenCode/Oros-Photography-Website](https://krummencode.github.io/Oros-Photography-Website/)
+
 # Website can be downloaded to view on local machine: [krummenCode/Oros-Photography-Website](https://github.com/krummenCode/Oros-Photography-Website)
 
 
@@ -16,7 +18,6 @@ Reported bugs/fixes will be submitted to correction
 
 Oros is a website created to hold pictures I captured in CO. 
 
-Site is not live
 
 ## Technology Used
 
@@ -36,12 +37,14 @@ index.html
 README.md
 ```
 
-How to view
+How to Clone
 ---
-* Download zip from link  
-* Open zip file
-* open folder
-* Open index.html 
+* Click clone or download button
+* Download zip file
+* Open folder Oros-Photography-Website-master
+* Unzip contents
+* Open index.html
+
 
 Known Bugs
 ---

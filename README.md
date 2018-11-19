@@ -10,13 +10,13 @@ Oros-Photography-Website
 
 DJ Krummen - Oros Photography Author & Photographer
 
-Traversy - PPhotography site tutorial
+Traversy - Photography site tutorial
 
 Reported bugs/fixes will be submitted to correction
 
 ### About 
 
-Oros is a website created to hold pictures I captured in CO. 
+Oros is a simple responsive website created to hold pictures I captured in CO. 
 
 
 ## Technology Used
@@ -48,10 +48,11 @@ How to Clone
 
 Known Bugs
 ---
-Landing Div issues - img has white space on some landscape modes
+
 
 Fixed Bugs
 ---
+Landing Div issues - img has white space on some landscape modes
 
 Changes to be Made
 ---

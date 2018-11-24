@@ -14,9 +14,9 @@ Traversy - Photography site tutorial
 
 Reported bugs/fixes will be submitted to correction
 
-### About 
+### About
 
-Oros is a simple responsive website created to hold pictures I captured in CO. 
+Oros is a simple responsive website created to hold pictures I captured in CO.
 
 
 ## Technology Used
@@ -53,6 +53,11 @@ Known Bugs
 Fixed Bugs
 ---
 Landing Div issues - img has white space on some landscape modes
+-Was a max-width issues
+
+Recent Changes
+---
+Added Favicons
 
 Changes to be Made
 ---

@@ -33,4 +33,8 @@ function darkThemeActivator() {
   var landingText = document.getElementById('landing-text');
   main.classList.toggle('darkTheme');
   landingText.classList.toggle('darkTheme');
+
+  //toggle darkBtn class to view work Btn
+  var viewWorkBtn = document.getElementById('view-work');
+  viewWorkBtn.classList.toggle('darkBtn');
 }

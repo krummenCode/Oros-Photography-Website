@@ -8,7 +8,7 @@ Oros-Photography-Website
 
 ## Author & Contributor List
 
-DJ Krummen - Oros Photography Author & Photographer, Theme toggle
+DJ Krummen - Oros Photography Author & Photographer, Developed Theme toggle with JavaScript
 
 Traversy - Photography site tutorial
 
@@ -16,24 +16,16 @@ Reported bugs/fixes will be submitted to correction
 
 ### About
 
-Oros is a simple responsive website created to hold pictures I captured in CO.
+Oros is a simple responsive website created to hold pictures I captured in CO. I recently developed a theme toggle in the landing page.
 
-### Currently Testing New Feature
-
-Testing theme switcher
-=html
---Button to activate function darkThemeActivator
---Toggle to test with. If liked i will use it instead of button
-
-=Css
---Added styles for dark theme classes
-
-=js
---function that toggles class into areas that theme needs changed
+### New Feature
+Theme switcher
+-Light/Dark theme toggle in landing
+-Light theme by default
 
 ## Technology Used
 
-HTML 5, CSS3, Js(jquery)
+HTML 5, CSS3, Js and jquery
 
 file list
 ---
@@ -60,7 +52,7 @@ How to Clone
 
 Known Bugs
 ---
-If saved to IOS device home it defaults a black bg color so logo is not visible 
+If saved to IOS device home it defaults a black bg color so logo is not visible
 
 Fixed Bugs
 ---
@@ -71,6 +63,15 @@ Recent Changes
 ---
 Added Favicons
 
-Changes to be Made
----
+Testing theme switcher
+=html
+--Toggle to activate function darkThemeActivator
+
+=Css
+--Added styles for dark theme classes
+--Used toggle switch style from w3schools
+
+=js
+--function that toggles class into areas that theme needs changed
+
 Dark/Light Mode

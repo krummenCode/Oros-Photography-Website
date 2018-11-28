@@ -86,6 +86,22 @@ h2 {
   margin: 0;
 }
 
+/*=====
+Dark Theme
+=====*/
+/*Body*/
+.bodyDarkTheme {
+  background-color: #444444;
+}
+/*All other dark theme elements - landingtext and main*/
+.darkTheme {
+  background-color: #222222;
+  color: #eee;
+}
+
+
+/*======*/
+
 
 /*start of images  */
 #header {

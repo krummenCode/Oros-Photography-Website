@@ -23,9 +23,9 @@
 		<!--If pictures are reused please give credit -->
 		<!--Original website-Traversy tut.-->
   </head>
-	<body>
+	<body id="body">
 	<!--Main content-->
-    <main>
+    <main id="main">
       <!-- Landing Area-first page -->
       <div id="landing">
         <div id="landing-text">
@@ -35,6 +35,16 @@
             <a href="#images" class="btn" id="view-work">
               View Work
             </a>
+            <!-- Theme switch  -->
+            <label class="switch">
+              <input type="checkbox">
+              <span class="slider round"></span>
+            </label>
+
+            <!-- activates function and class toggle-->
+            <button onclick="darkThemeActivator()">
+
+            </button>
           </div>
         </div>
 		<!--Landing area image-->
@@ -114,9 +124,9 @@
       integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
       crossorigin="anonymous">
     </script>
-	
+
 	<!--Link to js file-->
     <script src="js/main.js"></script>
-	
+
   </body>
 </html>
